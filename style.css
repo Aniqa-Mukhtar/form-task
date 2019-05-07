@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right, lightblue, lightgreen);
+    /* text-align:center; */
+    display:flex;
+    justify-content: center;
+    padding:5em;
+    width:100%;
+
+    
+    
+}
+ 
+input{
+    padding:5px;
+    display:block;
+    margin:5px;
+    width:300px;
+}
+
+form{
+background-image: linear-gradient(to right,lightgreen,lightyellow);
+border:800px;
+width:350px;
+height:300px;
+padding:2em;
+
+}
+
+button{
+    padding:5px;
+    width: 100px;
+    height:30px;
+    background-color: rgb(10, 117, 33);
+    color:white;
+    margin:1em;
+    border:none;
+
+}
+button:hover{
+    background-color:skyblue;
+    cursor:pointer;
+}
